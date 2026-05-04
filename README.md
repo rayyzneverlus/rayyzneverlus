@@ -71,9 +71,9 @@ Bot Developer · API Builder · AI Explorer 🚀
 
 <div align="center"><a href="https://github.com/rayyzneverlus">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a><a href="https://wa.me/your_number">
+</a><a href="https://wa.me/584166450262">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a><a href="https://t.me/your_username">
+</a><a href="https://t.me/progscript">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a></div>---
 
