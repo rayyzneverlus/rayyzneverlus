@@ -1,4 +1,4 @@
-<div align="center">👋 Halo, saya Rayyz
+<div align="center">👋 Halo, saya Farel
 
 Bot Developer · API Builder · AI Explorer 🚀
 
